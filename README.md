@@ -1,6 +1,9 @@
 ## Olá! 👋
+🎓 Formação: Técnico em Informática
 
-🎓 Estou cursando Análise e Desenvolvimento de Sistemas (A.D.S.) - 1° Ano
+👩🏻‍🎓 Estou cursando Análise e Desenvolvimento de Sistemas (A.D.S.) - 1° Ano
+
+Jogos, animações e Pop
 
 ## ⚙️ Ferramentas e Tecnologias:
 
