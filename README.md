@@ -3,8 +3,6 @@
 
 👩🏻‍🎓 Estou cursando Análise e Desenvolvimento de Sistemas (A.D.S.) - 1° Ano
 
-Jogos, animações e Pop
-
 ## ⚙️ Ferramentas e Tecnologias:
 
 <img loading= "lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" height="40" /> <img loading= "lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="40" height="40"/> <img loading= "lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/inkscape/inkscape-original.svg" width="40" height="40"/> 
